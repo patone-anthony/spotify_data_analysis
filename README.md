@@ -568,7 +568,6 @@ df_a = df_a.drop([7])
 df_a
 ```
 
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
